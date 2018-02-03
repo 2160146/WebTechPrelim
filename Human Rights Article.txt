@@ -8,7 +8,7 @@ Feeding Program
 
 	In the Philippines, about 6 to 8% of children under five were wasted, and about 2% were severely wasted. About a third of children under five in the Philippines have stunted growth, and a fifth is underweight. Just like across the world, in the Philippines, the share of children under five who had stunted growth and those underweight, have been decreasing. (J. Albert, 2015)
 
-	Conducting a feeding program yearly aims to reduce hunger, aid in development of children, improve nutritional status and effectively promote good health. (Blablabla children were fed during blablabla)
+	Conducting a feeding program yearly aims to reduce hunger, aid in development of children, improve nutritional status and effectively promote good health. 
 
 Operation Timbang
 
@@ -18,11 +18,13 @@ Operation Timbang
 	
 Vitamin A 
 
-	Vitamin A is essential for boosting the immune system and healthy growth development of children. Lack of it can put a child at greater risk of disease and early death and is also the leading cause of preventable child blindness. As a solution, a program was implemented by the barangay that aims to fuel Vitamin A consuption. Children are given Vitamin A supplements yearly.(Blablabla)
+	Vitamin A is essential for boosting the immune system and healthy growth development of children. Lack of it can put a child at greater risk of disease and early death and is also the leading cause of preventable child blindness. As a solution, a program was implemented by the barangay that aims to fuel Vitamin A consumption. Children are given Vitamin A supplements yearly.
 
 De-worming 
 
-	Over 800 million children are at risk of infection from parasitic worms known as soil-transmitted helminths and schistosomes. Childen mostly acquire soil-transmitted helminth infecfections caused by a group of parasites commonly referred to as worms. Worm infestations can lead to serious health problems and can hinder a child's ability to perform well in school.
+	Over 800 million children are at risk of infection from parasitic worms known as soil-transmitted helminths and schistosomes. Children mostly acquire soil-transmitted helminth infections caused by a group of parasites commonly referred to as worms. Worm infestations can lead to serious health problems and can hinder a child's ability to perform well in school.
+
+Other programs include: 
 
 Free eye check up 
 
@@ -31,3 +33,4 @@ Free maintenance of high blood pressure
 Gift Giving   
  
 We believe that focusing on having a healthy life is the best way of gaining a happy life.
+
